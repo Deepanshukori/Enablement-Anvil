@@ -16,3 +16,4 @@ db_schema:
       admin_ui: {width: 200, order: 0}
       type: string
     title: users
+startup: {type: form, module: Admin.ManageUsers.ManageAdmin.editadmin}
